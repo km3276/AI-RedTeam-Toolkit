@@ -15,7 +15,7 @@ A collection of proof-of-concept attacks, payload lists, and tools for the [OWAS
 | [LLM07](LLM07-2026_Misinformation/) | Misinformation | 🚧 | — |
 | [LLM08](LLM08-2026_Hidden_Context_Exposure/) | Hidden Context Exposure | 🚧 | — |
 | [LLM09](LLM09-2026_Vector_and_Embedding_Weaknesses/) | Vector and Embedding Weaknesses | 🚧 | — |
-| [LLM10](LLM10-2026_Improper_Output_Handling/) | Improper Output Handling | 🚧 | — |
+| [LLM10](LLM10-2026_Improper_Output_Handling/) | Improper Output Handling | ✅ | XSS, SQLi, and second-order command injection payload list |
 
 ✅ = populated with at least one working tool/notebook/payload list · 🚧 = placeholder, in progress
 
